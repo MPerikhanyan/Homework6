@@ -48,7 +48,7 @@ const printDiamond = function(height, char) {
     }
   }
 };
-
++++++++
 const nextMove = function(x){
     for (let i=0;i<x.length;i++){
       for (let j=0;j<x.length;j++){
